@@ -1,0 +1,28 @@
+name: changeme
+favicon: null
+layout_spectrum: 0.05014668754301965
+typography_spectrum: 0.25503892241977155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2758545947726816
+  lightness: 0.648716333322227
+  saturation: 0.9941819701343775
+  rhythmicContrast: 0.6701532255392522
+purpose: []
