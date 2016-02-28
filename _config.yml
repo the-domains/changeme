@@ -1,6 +1,6 @@
 name: changeme
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75941
 typography_spectrum: 0.44694
 title: Change Me
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b3b3b3'
     - '#fdfdfd'
     - '#282828'
-  brandStrength: 0.2758545947726816
+  brandStrength: 0.25
   lightness: 0.648716333322227
   saturation: 0.9941819701343775
   rhythmicContrast: 0.6701532255392522
